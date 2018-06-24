@@ -1,4 +1,3 @@
-const _ = require('lodash');
 const api = require('../api');
 
 async function fetchBatch(batch) {
